@@ -13,3 +13,5 @@ OpenAI has developed these libaries called Gym and Safety Gym library, which pro
 
 # Paper Notes 
 
+Papers to read: <br>
+* [What can I do here? A Theory of Affordances in Reinforcement Learning](https://arxiv.org/pdf/2006.15085.pdf)
